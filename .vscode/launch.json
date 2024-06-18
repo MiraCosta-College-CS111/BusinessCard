@@ -4,9 +4,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Main",
+            "name": "Business Card",
             "request": "launch",
-            "mainClass": "Main"
+            "mainClass": "BusinessCard"
         }
     ]
 }
